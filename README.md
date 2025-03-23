@@ -30,17 +30,6 @@ Intégration Discord – Gérez votre serveur directement depuis Discord.
 
 Système de rôles – Restreignez l’accès aux fonctionnalités selon les permissions Discord.
 
-🛠️ Support et assistance
 
-Si vous avez des questions ou rencontrez un problème, rejoignez notre serveur Discord pour obtenir de l’aide en temps réel !
-
-🌎 Rejoignez la communauté
-
-💬 Discord : [Lien du serveur]
-
-📢 Twitter : [Lien du compte]
-
-🌐 Site Web : [Lien du site]
-
-📢 [Nom de votre service] est une plateforme gratuite créée pour les joueurs par des passionnés. Profitez d’une expérience de jeu unique et sans limites ! 🎮🔥
+📢 MinecraftFREE est une plateforme gratuite créée pour les joueurs par des passionnés. Profitez d’une expérience de jeu unique et sans limites ! 🎮🔥
 
